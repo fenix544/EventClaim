@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "eventclaim",
+    "name": "EventClaim",
+    "description": "Mod na automatyczne wpisywanie kodu na finerpg.pl",
+    "version": "${version}",
+    "mcversion": "${mcversion}",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+      "fenix"
+    ],
+    "credits": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
